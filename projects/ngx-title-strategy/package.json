@@ -1,0 +1,31 @@
+{
+  "name": "ngx-title-strategy",
+  "version": "0.0.1",
+  "description": "Custom routing title strategy made simple using mustache {{title}} interpolation",
+  "author": {
+    "name": "Darel Ngogang",
+    "email": "darel.ngogang@gmail.com",
+    "url": "https://linkedin.com/in/darel-ngogang-00b8a6223"
+  },
+  "contributors": [
+    {
+      "name": "Darel Ngogang",
+      "email": "darel.ngogang@gmail.com",
+      "url": "https://linkedin.com/in/darel-ngogang-00b8a6223"
+    }
+  ],
+  "keywords": [
+    "angular",
+    "angular2+",
+    "lerado",
+    "title strategy"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
