@@ -1,6 +1,6 @@
 {
   "name": "ngx-title-strategy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom routing title strategy made simple using mustache {{title}} interpolation",
   "author": {
     "name": "Darel Ngogang",
